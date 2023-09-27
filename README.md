@@ -1,4 +1,4 @@
-# Meet ALi3nw3rx,
+# Meet ALi3nW3rX,
 
 the enigmatic intergalactic super alien hacker whose digital prowess knows no bounds. Ali3nw3rx is a name whispered in the darkest corners of the cosmos, renowned for their insatiable passion for unraveling the mysteries of cyberspace. With an uncanny ability to breach even the most fortified fortresses of Active Directory networks, Ali3nw3rx leaves a trail of digital stardust in their wake. \
 
