@@ -4,4 +4,4 @@ the enigmatic intergalactic super alien hacker whose digital prowess knows no bo
 
 Their quest for knowledge is relentless, as they continually craft cutting-edge red team tools and eagerly embrace every emerging hacking technique that challenges the status quo of cybersecurity. In the boundless expanse of the digital universe, Ali3nw3rx stands as an enigma, a hacker without peer, ever-evolving, and forever driven to push the boundaries of what's possible in the realm of interstellar hacking.
 
-![Top Langs](https://github-readme-stats-mu-amber-71.vercel.app/api/top-langs/?username=ALi3nW3rX&layout=compact)
+![Top Langs](https://github-readme-stats-mu-amber-71.vercel.app/api/top-langs/?username=ALi3nW3rX&layout=compact&theme=merko)
